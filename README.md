@@ -1,5 +1,5 @@
 # Gotta-Catch-Em-All---Ongoing
-A Python Script to help capture Pokemon on Vortex.
+A Python Script to help capture Pokemon on Vortex. (Code not updated for Vortex v5 update. I might work on it later on)
 
 USE AT YOUR OWN RISK!!
 USE AT YOUR OWN RISK!!
